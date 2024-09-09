@@ -1,5 +1,8 @@
-こんばんは！
-新しいライン
+APP 155 THV-TX-1 GitHub repository
+David Kyle R. Picart
+III - BS Physics
+High Energy Physics Group (Apprentice)
+
 
 '''  
 Hi!
